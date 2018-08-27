@@ -1,9 +1,8 @@
 import React from 'react';
 import { Route } from 'react-router-dom';
-import './App.css';
-import './components/Search';
 import Search from './components/Search';
 import ListBooks from './components/ListBooks';
+import './App.css';
 
 import * as BooksAPI from './api/BooksAPI';
 
@@ -17,7 +16,7 @@ class BooksApp extends React.Component {
   }
 
   reloadBooks = () => {
-    BooksAPI.getAll().then(books =>
+    return BooksAPI.getAll().then(books =>
       this.setState({
         myBooks: books,
       })

@@ -1,0 +1,591 @@
+[
+  {
+    "title": "Keith Richards",
+    "subtitle": "The Biography",
+    "authors": ["Victor Bockris"],
+    "publisher": "Da Capo Press",
+    "publishedDate": "2003",
+    "description": "In 1992, Victor Bockris's celebrated biography was the first to recognize Richards's pivotal role in the Stones' legend. Now that book on rock's most incredible survivor has been expanded to accommodate ten more years of his storied life.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0306812789" },
+      { "type": "ISBN_13", "identifier": "9780306812781" }
+    ],
+    "readingModes": { "text": false, "image": false },
+    "pageCount": 471,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.1.0.preview.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=P_lzbHj_jS0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=P_lzbHj_jS0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=P_lzbHj_jS0C&printsec=frontcover&dq=biography&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=P_lzbHj_jS0C&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Keith_Richards.html?hl=&id=P_lzbHj_jS0C",
+    "id": "P_lzbHj_jS0C"
+  },
+  {
+    "title": "Eudora Welty",
+    "subtitle": "A Biography",
+    "authors": ["Suzanne Marrs"],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2006",
+    "description": "An authoritative account of the esteemed American writer's life and achievements traces her origins in Jackson, Mississippi, her relationships with such contemporaries as Katherine Anne Porter and E. M. Forster, and her receipt of numerous literary awards. Reprint.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0156030632" },
+      { "type": "ISBN_13", "identifier": "9780156030632" }
+    ],
+    "readingModes": { "text": false, "image": true },
+    "pageCount": 652,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=ANDBdnute9AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=ANDBdnute9AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ANDBdnute9AC&printsec=frontcover&dq=biography&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ANDBdnute9AC&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Eudora_Welty.html?hl=&id=ANDBdnute9AC",
+    "id": "ANDBdnute9AC"
+  },
+  {
+    "title": "John Maynard Keynes",
+    "subtitle": "A Biography",
+    "authors": ["Robert Jacob Alexander Skidelsky"],
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+      { "type": "OTHER", "identifier": "UCSC:32106015121343" }
+    ],
+    "readingModes": { "text": false, "image": false },
+    "printType": "BOOK",
+    "categories": ["Economists"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.1.0.preview.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=NLK2AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=NLK2AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NLK2AAAAIAAJ&q=biography&dq=biography&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NLK2AAAAIAAJ&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/John_Maynard_Keynes.html?hl=&id=NLK2AAAAIAAJ",
+    "id": "NLK2AAAAIAAJ"
+  },
+  {
+    "title": "Namath",
+    "subtitle": "A Biography",
+    "authors": ["Mark Kriegel"],
+    "publisher": "Penguin",
+    "publishedDate": "2005-07",
+    "description": "Discusses the football star's upbringing as the son of a Hungarian immigrant in the steel country of Pennsylvania, his achievements at the University of Alabama, his career with the New York Jets, and his legendary status.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0143035355" },
+      { "type": "ISBN_13", "identifier": "9780143035350" }
+    ],
+    "readingModes": { "text": false, "image": false },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=YNosf2VbwVsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=YNosf2VbwVsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YNosf2VbwVsC&printsec=frontcover&dq=biography&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YNosf2VbwVsC&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Namath.html?hl=&id=YNosf2VbwVsC",
+    "id": "YNosf2VbwVsC"
+  },
+  {
+    "title": "Anna Freud",
+    "subtitle": "A Biography",
+    "authors": ["Elisabeth Young-Bruehl"],
+    "publisher": "Yale University Press",
+    "publishedDate": "2008-10-01",
+    "description": "This new edition of the biography of pioneering child analyst Anna Freud includes, among other features, a major retrospective introduction by the author.",
+    "industryIdentifiers": [
+      { "type": "ISBN_13", "identifier": "9780300142716" },
+      { "type": "ISBN_10", "identifier": "0300142714" }
+    ],
+    "readingModes": { "text": true, "image": true },
+    "pageCount": 577,
+    "printType": "BOOK",
+    "categories": ["BIOGRAPHY & AUTOBIOGRAPHY"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.2.0.preview.3",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=OcoQTQwTDu8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=OcoQTQwTDu8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OcoQTQwTDu8C&printsec=frontcover&dq=biography&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OcoQTQwTDu8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OcoQTQwTDu8C",
+    "id": "OcoQTQwTDu8C"
+  },
+  {
+    "title": "Banting",
+    "subtitle": "A Biography",
+    "authors": ["Michael Bliss"],
+    "publisher": "University of Toronto Press",
+    "publishedDate": "1992",
+    "description": "Frederick Banting was thirty-one when he received the Nobel Prize for his part in the discovery of insulin. He was catapulted to instant fame, for which he was neither personally nor professionally prepared. Set up as head of his own research institute by a grateful government, he struggled fruitlessly to duplicate his first triumph. His marriage to a beautiful socialite ended in a scandal that rocked Toronto, and he returned to work and painting to dull his frustration. He died in a mysterious plane crash; a new preface to this edition discusses recent findings about the crash. Michaeal Bliss's highly acclaimed biography explores the life of a scientist who during his lifetime was the most famous of all Canadians, but who in his private life stands revealed as a passionate, troubled man, in many ways the victim of his own fame.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0802073867" },
+      { "type": "ISBN_13", "identifier": "9780802073860" }
+    ],
+    "readingModes": { "text": false, "image": true },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=sqCGh16dvbIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=sqCGh16dvbIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sqCGh16dvbIC&printsec=frontcover&dq=biography&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=sqCGh16dvbIC&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Banting.html?hl=&id=sqCGh16dvbIC",
+    "id": "sqCGh16dvbIC"
+  },
+  {
+    "title": "W. H. Auden",
+    "subtitle": "A Biography",
+    "authors": ["Humphrey Carpenter"],
+    "publisher": "Faber & Faber",
+    "publishedDate": "2011-10-20",
+    "description": "W. H. Auden disapproved of literary biography. Or did he? The truth is far more equivocal than at first seems apparent. There is no denying he delivered himself of such unambiguous pronouncements as 'Biographies of writers are always superfluous and usually in bad taste.'; and that he asked for his friends to burn his letters at his death, but, against that, Auden himself often reviewed literary biographies and normally with enthusiasm. Moreover he argued for biographies of writers such as Dryden, Trollope, Wagner and Gerard Manley Hopkins as their lives would tell us something about their art. Humphrey Carpenter himself nicely summarizes Auden's ambiguity on this question. 'Here (referring to literary biography), as so often in his life, Auden adopted a dogmatic attitude which did not reflect the full range of his opinions, and which he sometimes flatly contradicted.' Although the biography was not authorized it did receive the co-operation of the Auden Estate which gave permission for letters and unpublished works to be quoted. The result is a biography that was widely praised on first publication in 1981 and which continues to hold its own. Now is the obvious time to reissue it with the character of Humphrey Carpenter playing an important role in Alan Bennett's The Habit of Art. In his introduction Alan Bennett writes 'When I started writing the play I made much use of the biographies of both Auden and Britten written by Humphrey Carpenter and both are models of their kind. Indeed I was consulting his books so much that eventually Carpenter found his way into the play.' 'Carpenter is a model biographer - diligent, unspeculative, sympathetic, and extremely good at finding out what happened when and with whom . . . admirably detailed and researched study.' John Bayley, The Listener 'an illuminating book; full of information, unobtrusively affectionate, it describes with unpretentious elegance the curve of a great poet's life and work' Frank Kermode, Guardian 'sharpens and usually lights up even the most canvassed parts of the Auden life and myth . . . a deeply interesting book about a deeply interesting life' Roy Fuller, Sunday Times ' . . . the story of a remarkable man told by one of the best living biographers' David Cecil, Book Choice",
+    "industryIdentifiers": [
+      { "type": "ISBN_13", "identifier": "9780571280889" },
+      { "type": "ISBN_10", "identifier": "0571280889" }
+    ],
+    "readingModes": { "text": true, "image": true },
+    "pageCount": 536,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=5wXvI4F54X8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=5wXvI4F54X8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5wXvI4F54X8C&printsec=frontcover&dq=biography&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5wXvI4F54X8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5wXvI4F54X8C",
+    "id": "5wXvI4F54X8C"
+  },
+  {
+    "title": "Rachel Carson",
+    "subtitle": "A Biography",
+    "authors": ["Arlene Rodda Quaratiello"],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "2004-01-01",
+    "description": "This work provides an up-to-date biography of Rachel Carson, a writer and scientist who greatly influenced the modern environmental movement.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0313323887" },
+      { "type": "ISBN_13", "identifier": "9780313323881" }
+    ],
+    "readingModes": { "text": true, "image": true },
+    "pageCount": 138,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.3",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=leOEFhTkTwAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=leOEFhTkTwAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=leOEFhTkTwAC&printsec=frontcover&dq=biography&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=leOEFhTkTwAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-leOEFhTkTwAC",
+    "id": "leOEFhTkTwAC"
+  },
+  {
+    "title": "Georges Perec",
+    "subtitle": "A Life in Words : a Biography",
+    "authors": ["David Bellos"],
+    "publisher": "David R. Godine Publisher",
+    "publishedDate": "1993",
+    "description": "This is the first complete biography of Georges Perec (1936-1982), novelist, poet, verbal gamesman, master puzzler ? a man at once eccentric, brilliant, and endearingly ordinary, whom Italo Calvino called \"so singular a literary personality that he bears absolutely no resemblance to anyone else.\"Perec's novels are widely regarded as modern classics, but his linguistic mastery actually extended to a stunning variety of forms: from autobiography, drama, and criticism to crossword puzzles and the world's longest palindrome. Ever in search of new verbal challenges, he wrote one novel entirely without the letter e; and in 1978 he published the monumental, structurally complex Life A User's Manual, which many critics have placed (in the words of The Boston Globe) \"on the level of Joyce, Proust, Mann, Kafka, and Nabokov.\"In Georges Perec: A Life in Words, David Bellos, Perec's award-winning English translator, introduces the enigmatic figure behind these remarkable works, showing how Perec's experiences led to such masterpieces as Life, the celebrated Things, and the harrowing W or The Memory of Childhood ? the latter inspired by his parents' deaths during World War II (one of them at Aucshwitz) and by his own sense of guilt as a survivor.Using unpublished documents and firsthand interviews, Bellos details Perec's tragic childhood, his difficult apprenticeship, his emergence into literary renown, and finally his death from cancer at age 46. He traces the influences of Perec's Polish-Jewish background, and of the friendships?with such figures as Calvino, Raymond Queneau, Harry Mathews, and others?that helped shape this extraordinary life. He offers privileged insights, born of many years' reflection and study, into Perec's vertiginous works. He situates Perec as a primary figure of French intellectual life in the 1960s and 1970s, due in part to his collaborations with the radically inventive OuLiPo group (whose name condenses the emblematic phrase \"Workshop of Potential Literature\"). And he shows the painstaking process by which a phenomenally gifted writer, suffering from a sheltered past crippling emotional burden, reconstructed his life in the only way he knew how: in words.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0879239808" },
+      { "type": "ISBN_13", "identifier": "9780879239800" }
+    ],
+    "readingModes": { "text": false, "image": true },
+    "pageCount": 802,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=hxKxoGAuEgcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=hxKxoGAuEgcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hxKxoGAuEgcC&printsec=frontcover&dq=biography&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hxKxoGAuEgcC&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Georges_Perec.html?hl=&id=hxKxoGAuEgcC",
+    "id": "hxKxoGAuEgcC"
+  },
+  {
+    "title": "Biography",
+    "subtitle": "A Brief History",
+    "authors": ["Nigel Hamilton"],
+    "publisher": "Harvard University Press",
+    "publishedDate": "2009-06-30",
+    "description": "For what purpose and for whom has biographical pursuit endured, and how does it play such a contested, popular role in contemporary Western culture, from biopics to blogs, memoirs to docudramas? Award-winning biographer Hamilton addresses these questions in an incisive and vivid narrative that will appeal to students of human nature and self-representation across the arts and sciences.",
+    "industryIdentifiers": [
+      { "type": "ISBN_13", "identifier": "9780674038226" },
+      { "type": "ISBN_10", "identifier": "0674038223" }
+    ],
+    "readingModes": { "text": true, "image": true },
+    "pageCount": 345,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.0.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=MeyfRrhyQc8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=MeyfRrhyQc8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MeyfRrhyQc8C&printsec=frontcover&dq=biography&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MeyfRrhyQc8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MeyfRrhyQc8C",
+    "id": "MeyfRrhyQc8C"
+  },
+  {
+    "title": "Cleopatra",
+    "subtitle": "A Biography",
+    "authors": ["Duane W. Roller"],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2010-04-01",
+    "description": "Few personalities from classical antiquity are more famous--yet more poorly understood--than Cleopatra VII, queen of Egypt. In this major biography, Duane Roller reveals that Cleopatra was in fact a learned and visionary leader whose overarching goal was always the preservation of her dynasty and kingdom. Roller's authoritative account is the first to be based solely on primary materials from the Greco-Roman period: literary sources, Egyptian documents (Cleopatra's own writings), and representations in art and coinage produced while she was alive. His compelling portrait of the queen illuminates her prowess as a royal administrator who managed a large and diverse kingdom extending from Asia Minor to the interior of Egypt, as a naval commander who led her own fleet in battle, and as a scholar and supporter of the arts. Even her love affairs with Julius Caesar and Marcus Antonius--the source of her reputation as a supreme seductress who drove men to their doom--were carefully crafted state policies: she chose these partners to insure the procreation of successors who would be worthy of her distinguished dynasty. That Cleopatra ultimately lost to her Roman opponents, Roller contends, in no way diminishes her abilities. \"Roller tells his tale smoothly and accessibly....The resulting portrait is that of a complex, many-sided figure, a potent Hellenistic ruler who could move the tillers of power as skillfully as any man, and one far and nobly removed from the 'constructed icon' of popular imagination.\" --The New York Times Book Review \"A rich account of late Ptolemaic culture.\" --The New Yorker \"Offers a superb panorama of the society and culture of late Ptolemaic Egypt, with vivid sketches of the (remarkably vigorous) intellectual life of Cleopatra's Alexandria and the structural instabilities of the late Ptolemaic state.\" --Times Literary Supplement \"Besides providing a compelling story and breathing fresh air into a heretofore two-dimensional caricature from history, Roller's 'Cleopatra' provides an interesting commentary on the attitudes still prevalent towards women who rule.\" --Christian Science Monitor \"Compulsively readable.\" --Bookslut \"A definitive account of a queen of remarkable strength.\" --Publishers Weekly",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0199752583" },
+      { "type": "ISBN_13", "identifier": "9780199752584" }
+    ],
+    "readingModes": { "text": true, "image": true },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": ["History"],
+    "averageRating": 4,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.3.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=85rikTt-kBEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=85rikTt-kBEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=85rikTt-kBEC&printsec=frontcover&dq=biography&hl=&cd=11&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=85rikTt-kBEC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-85rikTt-kBEC",
+    "id": "85rikTt-kBEC"
+  },
+  {
+    "title": "Stephen Hawking",
+    "subtitle": "A Biography",
+    "authors": ["Kristine Larsen"],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "2005",
+    "description": "Presents the life and accomplishments of the English scientist, who, despite suffering from Lou Gehrig's disease, has become a renowned cosmologist whose theory of black holes has had a profound influence on the modern study of the universe.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0313323925" },
+      { "type": "ISBN_13", "identifier": "9780313323928" }
+    ],
+    "readingModes": { "text": true, "image": true },
+    "pageCount": 165,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "averageRating": 5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.3.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=yL3RBMEI5OgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=yL3RBMEI5OgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yL3RBMEI5OgC&printsec=frontcover&dq=biography&hl=&cd=12&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yL3RBMEI5OgC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yL3RBMEI5OgC",
+    "id": "yL3RBMEI5OgC"
+  },
+  {
+    "title": "The Art of Biography in Antiquity",
+    "authors": ["Tomas Hägg"],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2012-04-05",
+    "description": "Examines the whole spectrum of Greek and Roman biography, which explores the virtues and vices of philosophers, statesmen and poets.",
+    "industryIdentifiers": [
+      { "type": "ISBN_13", "identifier": "9781107016699" },
+      { "type": "ISBN_10", "identifier": "110701669X" }
+    ],
+    "readingModes": { "text": false, "image": true },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": ["History"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=NhLQbSdTKooC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=NhLQbSdTKooC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NhLQbSdTKooC&printsec=frontcover&dq=biography&hl=&cd=13&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NhLQbSdTKooC&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Biography_in_Antiquity.html?hl=&id=NhLQbSdTKooC",
+    "id": "NhLQbSdTKooC"
+  },
+  {
+    "title": "Samuel Beckett",
+    "subtitle": "A Biography",
+    "authors": ["Deirdre Bair"],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "1990",
+    "description": "Examines the psychological agonies of Beckett's young manhood, his World War II heroism, his enigmatic character, and the growth of his style which revolutionized modern theater.",
+    "industryIdentifiers": [
+      { "type": "ISBN_13", "identifier": "9780671691738" },
+      { "type": "ISBN_10", "identifier": "0671691732" }
+    ],
+    "readingModes": { "text": false, "image": false },
+    "pageCount": 736,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=y53j4MKTausC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=y53j4MKTausC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=y53j4MKTausC&printsec=frontcover&dq=biography&hl=&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=y53j4MKTausC&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Samuel_Beckett.html?hl=&id=y53j4MKTausC",
+    "id": "y53j4MKTausC"
+  },
+  {
+    "title": "Giacometti",
+    "subtitle": "A Biography",
+    "authors": ["James Lord"],
+    "publisher": "Farrar, Straus and Giroux",
+    "publishedDate": "1997-10-30",
+    "description": "The work of one of the towering creative spirits of the century, Alberto Giacometti's visionary sculptures and paintings from a testament to the artist's intriguing life story. From modest beginnings in a Swiss village, Giacometti went on to flourish in the picturesque milieu of prewar Paris and then to achieve international acclaim in the fifties and sixties. Picasso, Balthus, Samuel Beckett, Stravinsky and Sartre have parts in his story, along with flamboyant art dealers, whores, shady drifters, unscrupulous collectors, poets and thieves. Women were a complex yet important element of his life--particularly his wife, Annette, and his last mistress and model, Caroline--as was the intimate relationship he shared with his brother Diego, who was both Alberto's confidant and collaborator. James Lord was personally acquainted with Giacometti and his entourage, and combines firsthand experience with a unique knowledge gathered during many years of observation and research. In this exceptional biography Lord unfolds the personal history of a man who managed to achieve a heroic destiny by remaining utterly true to himself and to his calling. Giacometti: A Biography was nominated for the National Book Critics Circle Award. James Lord has subsequently published three volumes of memoirs. In recognition of his contribution to French culture he has been made an officer of the Legion of Honour.",
+    "industryIdentifiers": [
+      { "type": "ISBN_13", "identifier": "9781466815124" },
+      { "type": "ISBN_10", "identifier": "1466815124" }
+    ],
+    "readingModes": { "text": true, "image": false },
+    "pageCount": 575,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.3.3.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=itCCmH71btQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=itCCmH71btQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=itCCmH71btQC&printsec=frontcover&dq=biography&hl=&cd=15&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=itCCmH71btQC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-itCCmH71btQC",
+    "id": "itCCmH71btQC"
+  },
+  {
+    "title": "Stalin",
+    "subtitle": "A Biography",
+    "authors": ["Robert Service"],
+    "publisher": "Harvard University Press",
+    "publishedDate": "2005",
+    "description": "The first full-scale biography of Stalin in twenty years reveals the complex and fascinating story of the Soviet dictator, from his dysfunctional childhood in Soviet Georgia, through his education and early political activism, to his tyrannical control over the Soviet Union and the legacy of his reign.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0674016971" },
+      { "type": "ISBN_13", "identifier": "9780674016972" }
+    ],
+    "readingModes": { "text": true, "image": true },
+    "pageCount": 715,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "averageRating": 4,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.3",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=hSWK6Dh4wRgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=hSWK6Dh4wRgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hSWK6Dh4wRgC&printsec=frontcover&dq=biography&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hSWK6Dh4wRgC&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Stalin.html?hl=&id=hSWK6Dh4wRgC",
+    "id": "hSWK6Dh4wRgC"
+  },
+  {
+    "title": "My First Life",
+    "subtitle": "A Biography",
+    "authors": ["Brenda Dean Paul"],
+    "publishedDate": "1935",
+    "industryIdentifiers": [{ "type": "OTHER", "identifier": "LCCN:35005677" }],
+    "readingModes": { "text": false, "image": false },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Mv_LHAAACAAJ&dq=biography&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Mv_LHAAACAAJ&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/My_First_Life.html?hl=&id=Mv_LHAAACAAJ",
+    "id": "Mv_LHAAACAAJ"
+  },
+  {
+    "title": "Garfield",
+    "subtitle": "A Biography",
+    "authors": ["Allan Peskin"],
+    "publisher": "Kent State University Press",
+    "publishedDate": "1978",
+    "description": "A critical biography of the twentieth president places emphasis on his role in Reconstruction, industrialization, and the Gilded Age of American politics",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0873382102" },
+      { "type": "ISBN_13", "identifier": "9780873382106" }
+    ],
+    "readingModes": { "text": true, "image": true },
+    "pageCount": 716,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=SRmY164czTQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=SRmY164czTQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SRmY164czTQC&printsec=frontcover&dq=biography&hl=&cd=18&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SRmY164czTQC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SRmY164czTQC",
+    "id": "SRmY164czTQC"
+  },
+  {
+    "title": "Albert Schweitzer",
+    "subtitle": "A Biography",
+    "authors": ["James Brabazon"],
+    "publisher": "Syracuse University Press",
+    "publishedDate": "2000",
+    "description": "The second edition of this biography of humanitarian Albert Schweitzer has been updated to include documents discovered since the work was originally written, including the letters between Schweitzer and Helene Bresslau written during the ten years before their marriage.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0815606753" },
+      { "type": "ISBN_13", "identifier": "9780815606758" }
+    ],
+    "readingModes": { "text": false, "image": true },
+    "pageCount": 555,
+    "printType": "BOOK",
+    "categories": ["Biography & Autobiography"],
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=zOm0iqkRsYEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=zOm0iqkRsYEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zOm0iqkRsYEC&printsec=frontcover&dq=biography&hl=&cd=19&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zOm0iqkRsYEC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zOm0iqkRsYEC",
+    "id": "zOm0iqkRsYEC"
+  },
+  {
+    "title": "Edgar Allan Poe",
+    "subtitle": "A Biography",
+    "authors": ["Milton Meltzer"],
+    "publisher": "Twenty-First Century Books",
+    "publishedDate": "2003",
+    "description": "Examines the troubled life of the nineteenth-century writer whose poetry and short stories broke new ground in American literature.",
+    "industryIdentifiers": [
+      { "type": "ISBN_10", "identifier": "0761329102" },
+      { "type": "ISBN_13", "identifier": "9780761329107" }
+    ],
+    "readingModes": { "text": false, "image": true },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": ["Juvenile Nonfiction"],
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.1",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=eJa41LzeWWkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=eJa41LzeWWkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eJa41LzeWWkC&printsec=frontcover&dq=biography&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eJa41LzeWWkC&dq=biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Edgar_Allan_Poe.html?hl=&id=eJa41LzeWWkC",
+    "id": "eJa41LzeWWkC"
+  }
+]

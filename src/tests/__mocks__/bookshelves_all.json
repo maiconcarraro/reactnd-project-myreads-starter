@@ -1,0 +1,198 @@
+[
+  {
+    "id": "currentlyReading",
+    "title": "currently Reading",
+    "books": [
+      {
+        "title": "Lords of Finance",
+        "subtitle": "The Bankers Who Broke the World",
+        "authors": ["Liaquat Ahamed"],
+        "publisher": "Penguin",
+        "publishedDate": "2009-01",
+        "description": "Argues that the stock market crash of 1929 and subsequent Depression occurred as a result of poor decisions on the part of four central bankers who jointly attempted to reconstruct international finance by reinstating the gold standard.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "159420182X" },
+          { "type": "ISBN_13", "identifier": "9781594201820" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "averageRating": 4.5,
+        "ratingsCount": 14,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=74XNzF_al3MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=74XNzF_al3MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=74XNzF_al3MC&printsec=frontcover&dq=finance&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=74XNzF_al3MC&dq=finance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lords_of_Finance.html?hl=&id=74XNzF_al3MC",
+        "id": "74XNzF_al3MC",
+        "shelf": "currentlyReading"
+      },
+      {
+        "title": "Android Apps Security",
+        "authors": ["Sheran Gunasekera"],
+        "publisher": "Apress",
+        "publishedDate": "2012-09-12",
+        "description": "Android Apps Security provides guiding principles for how to best design and develop Android apps with security in mind. It explores concepts that can be used to secure apps and how developers can use and incorporate these security features into their apps. This book will provide developers with the information they need to design useful, high-performing, and secure apps that expose end-users to as little risk as possible. Overview of Android OS versions, features, architecture and security. Detailed examination of areas where attacks on applications can take place and what controls should be implemented to protect private user data In-depth guide to data encryption, authentication techniques, enterprise security and applied real-world examples of these concepts What you’ll learn How to identify data that should be secured How to use the Android APIs to ensure confidentiality and integrity of data How to build secure apps for the enterprise About Public Key Infrastructure, encryption APIs and how to implement them in apps About owners, access control lists and permissions to allow user control over App properties About client-server apps and how to manage authentication, transport layer encryption and server-side security Who this book is for This book is for intermediate and experienced Android app developers that are already familiar with writing apps from scratch. It discusses mechanisms on how apps can be secured so that private, end-user data is kept secure on the device and while in transit. If you’re just embarking on the path to Android development, then this book may prove to be a useful companion to other developer guides. Table of Contents Android Architecture & Security Controls The Foundation of an App Who Has Access? Designing and Developing 3 Sample Apps Using PKI & Encryption Interfacing with Web Services Writing for the Enterprise Designing and Developing 3 More Sample Apps Publishing and Selling Your Apps Malware, Spyware and Your End-User API Reference",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781430240624" },
+          { "type": "ISBN_10", "identifier": "1430240628" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IEk2m00o9_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IEk2m00o9_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IEk2m00o9_IC&printsec=frontcover&dq=android&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IEk2m00o9_IC&dq=android&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Android_Apps_Security.html?hl=&id=IEk2m00o9_IC",
+        "id": "IEk2m00o9_IC",
+        "shelf": "currentlyReading"
+      }
+    ]
+  },
+  {
+    "id": "wantToRead",
+    "title": "want To Read",
+    "books": [
+      {
+        "title": "Best Android Apps",
+        "subtitle": "The Guide for Discriminating Downloaders",
+        "authors": ["Mike Hendrickson", "Brian Sawyer"],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2010-04-27",
+        "description": "Contains descriptions of over two hundred recommended applications and games for android/mobile devices, including apps for business, communication, lifestyle, entertainment, utility/tool, and reference.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781449382551" },
+          { "type": "ISBN_10", "identifier": "144938255X" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bUybAgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bUybAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bUybAgAAQBAJ&dq=android&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bUybAgAAQBAJ&dq=android&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Best_Android_Apps.html?hl=&id=bUybAgAAQBAJ",
+        "id": "bUybAgAAQBAJ",
+        "shelf": "wantToRead"
+      },
+      {
+        "title": "Android",
+        "subtitle": "Earth Book One of the Android Saga",
+        "authors": ["Paul J. Ward"],
+        "publisher": "Strategic Book Publishing",
+        "publishedDate": "2012-11-01",
+        "description": "Humans and androids are learning to co-exist as equals, but there are many opposers who seek to subvert their own creations and rule with absolute power ...Humans, with their android creations loyally at their side, have colonised the Moon and Mars. The Earth and Colonies Defence Service (ECDS) keeps the colonies and space lanes safe. On Earth, the Android Protectorate League, led by the enigmatic android leader Traviod Selius, campaign for android rights legislation. However, they are strongly opposed by the Anti-Android Faction (AAF). Following the approval of the Human and Android Cohabitation Act, ECDS Chief of Operations Nakaar Bacvor and co-conspirators form the military wing of the AAF. The AAF attack the Moon and Mars colonies, but are repulsed by ECDS forces. On Earth, with the AAF seemingly defeated, humans and androids unite to create the city of Utopia. Threats from a reformed, more powerful AAF emerges and the crew of the ECDS flagship Harmonia must formulate a defence. The mysterious Evolved Androids appear on Earth with a sytoid child called Eirini, who has strange powers. Utopian Enforcement officer Rul Calibra becomes her unlikely guardian and protector.Humankind's destiny hangs in the balance in the first series installment ANDROID: Earth - Book One of the ANDROID Saga. Paul J. Ward was born in 1969 in Lincolnshire, England, on the day of the historic Apollo 11 moon landing. He has been fascinated by space exploration and technological developments his whole life. This is his first novel. Publisher's website: http: //sbpra.com/PaulJWar",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781618971241" },
+          { "type": "ISBN_10", "identifier": "1618971247" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xlp6NE2NWecC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xlp6NE2NWecC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xlp6NE2NWecC&printsec=frontcover&dq=android&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xlp6NE2NWecC&dq=android&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Android.html?hl=&id=xlp6NE2NWecC",
+        "id": "xlp6NE2NWecC",
+        "shelf": "wantToRead"
+      }
+    ]
+  },
+  {
+    "id": "read",
+    "title": "read",
+    "books": [
+      {
+        "title": "The Cuckoo's Calling",
+        "authors": ["Robert Galbraith"],
+        "publisher": "Mulholland Books",
+        "publishedDate": "2013-04-30",
+        "description": "A brilliant debut mystery in a classic vein: Detective Cormoran Strike investigates a supermodel's suicide. After losing his leg to a land mine in Afghanistan, Cormoran Strike is barely scraping by as a private investigator. Strike is down to one client, and creditors are calling. He has also just broken up with his longtime girlfriend and is living in his office. Then John Bristow walks through his door with an amazing story: His sister, thelegendary supermodel Lula Landry, known to her friends as the Cuckoo, famously fell to her death a few months earlier. The police ruled it a suicide, but John refuses to believe that. The case plunges Strike into the world of multimillionaire beauties, rock-star boyfriends, and desperate designers, and it introduces him to every variety of pleasure, enticement, seduction, and delusion known to man. You may think you know detectives, but you've never met one quite like Strike. You may think you know about the wealthy and famous, but you've never seen them under an investigation like this. Introducing Cormoran Strike, this is the acclaimed first crime novel by J.K. Rowling, writing under the pseudonym Robert Galbraith.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780316206860" },
+          { "type": "ISBN_10", "identifier": "0316206865" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 3037,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.21.20.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=evuwdDLfAyYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=evuwdDLfAyYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=evuwdDLfAyYC&printsec=frontcover&dq=rowling&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=evuwdDLfAyYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-evuwdDLfAyYC",
+        "id": "evuwdDLfAyYC",
+        "shelf": "read"
+      },
+      {
+        "title": "A Drama in Dregs",
+        "subtitle": "A Life Study",
+        "authors": ["Coralie Glyn"],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "HARVARD:32044086860855" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.full.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KkRx85rbiv8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KkRx85rbiv8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KkRx85rbiv8C&printsec=frontcover&dq=drama&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KkRx85rbiv8C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-KkRx85rbiv8C",
+        "id": "KkRx85rbiv8C",
+        "shelf": "read"
+      }
+    ]
+  }
+]

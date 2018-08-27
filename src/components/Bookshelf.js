@@ -9,10 +9,26 @@ class Bookshelf extends React.Component {
     onChangeBookshelf: PropTypes.func.isRequired,
     id: PropTypes.string,
     title: PropTypes.string,
-    books: PropTypes.array,
+    books: PropTypes.array.isRequired,
   };
 
-  state = {};
+  // Utilizado pra testar no enzyme
+  state = {
+    qty: 0,
+  };
+
+  componentWillMount() {
+    const { books } = this.props;
+    this.setState({
+      qty: books.length,
+    });
+  }
+
+  componentWillReceiveProps(nextProps) {
+    this.setState({
+      qty: nextProps.books.length,
+    });
+  }
 
   changeAllBooks = event => {
     const { onChangeBookshelf, books } = this.props;
@@ -23,8 +39,10 @@ class Bookshelf extends React.Component {
 
       BooksAPI.update(book, newBookshelf).then(book => {
         count--;
-        console.log(count);
         if (count === 0 && onChangeBookshelf) {
+          this.setState({
+            qty: 0,
+          });
           onChangeBookshelf();
         }
       });

@@ -1,0 +1,65 @@
+{
+  "id": "currentlyReading",
+  "title": "currently Reading",
+  "books": [
+    {
+      "title": "Lords of Finance",
+      "subtitle": "The Bankers Who Broke the World",
+      "authors": ["Liaquat Ahamed"],
+      "publisher": "Penguin",
+      "publishedDate": "2009-01",
+      "description": "Argues that the stock market crash of 1929 and subsequent Depression occurred as a result of poor decisions on the part of four central bankers who jointly attempted to reconstruct international finance by reinstating the gold standard.",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "159420182X" },
+        { "type": "ISBN_13", "identifier": "9781594201820" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 564,
+      "printType": "BOOK",
+      "categories": ["Business & Economics"],
+      "averageRating": 4.5,
+      "ratingsCount": 14,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.0.0.0.preview.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=74XNzF_al3MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=74XNzF_al3MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=74XNzF_al3MC&printsec=frontcover&dq=finance&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=74XNzF_al3MC&dq=finance&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Lords_of_Finance.html?hl=&id=74XNzF_al3MC",
+      "id": "74XNzF_al3MC",
+      "shelf": "currentlyReading"
+    },
+    {
+      "title": "Android Apps Security",
+      "authors": ["Sheran Gunasekera"],
+      "publisher": "Apress",
+      "publishedDate": "2012-09-12",
+      "description": "Android Apps Security provides guiding principles for how to best design and develop Android apps with security in mind. It explores concepts that can be used to secure apps and how developers can use and incorporate these security features into their apps. This book will provide developers with the information they need to design useful, high-performing, and secure apps that expose end-users to as little risk as possible. Overview of Android OS versions, features, architecture and security. Detailed examination of areas where attacks on applications can take place and what controls should be implemented to protect private user data In-depth guide to data encryption, authentication techniques, enterprise security and applied real-world examples of these concepts What you’ll learn How to identify data that should be secured How to use the Android APIs to ensure confidentiality and integrity of data How to build secure apps for the enterprise About Public Key Infrastructure, encryption APIs and how to implement them in apps About owners, access control lists and permissions to allow user control over App properties About client-server apps and how to manage authentication, transport layer encryption and server-side security Who this book is for This book is for intermediate and experienced Android app developers that are already familiar with writing apps from scratch. It discusses mechanisms on how apps can be secured so that private, end-user data is kept secure on the device and while in transit. If you’re just embarking on the path to Android development, then this book may prove to be a useful companion to other developer guides. Table of Contents Android Architecture & Security Controls The Foundation of an App Who Has Access? Designing and Developing 3 Sample Apps Using PKI & Encryption Interfacing with Web Services Writing for the Enterprise Designing and Developing 3 More Sample Apps Publishing and Selling Your Apps Malware, Spyware and Your End-User API Reference",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9781430240624" },
+        { "type": "ISBN_10", "identifier": "1430240628" }
+      ],
+      "readingModes": { "text": true, "image": true },
+      "pageCount": 248,
+      "printType": "BOOK",
+      "categories": ["Computers"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.1.1.0.preview.3",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=IEk2m00o9_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=IEk2m00o9_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=IEk2m00o9_IC&printsec=frontcover&dq=android&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=IEk2m00o9_IC&dq=android&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Android_Apps_Security.html?hl=&id=IEk2m00o9_IC",
+      "id": "IEk2m00o9_IC",
+      "shelf": "currentlyReading"
+    }
+  ]
+}

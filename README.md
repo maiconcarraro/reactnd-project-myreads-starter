@@ -34,3 +34,6 @@
 - [x] Capa de livro padrão quando não encontrado
 - [x] Adicionado publisher do book para diferenciar, pois alguns livros tem título e autor igual (pesquisar Drama)
 - [x] Testes
+  - [x] Corrigido código do localStorage no `BooksAPI` que conflita nos testes
+  - [x] Adicionado mocks relacionado ao BooksAPI
+  - [x] Adicionado testes da maioria dos componentes, incluindo as rotas do React-Router.
