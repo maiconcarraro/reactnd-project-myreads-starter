@@ -1,5 +1,5 @@
-- Instalar dependências `npm install` ou `yarn install`
-- Rodar projeto `npm start` ou `yarn start`
+- Instalar dependências `npm install`
+- Rodar projeto `npm start`
 
 ## Tecnologias adicionadas
 
