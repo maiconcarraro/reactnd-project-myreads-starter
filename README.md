@@ -1,5 +1,6 @@
 - Instalar dependências `npm install`
 - Rodar projeto `npm start`
+- Testes `npm test` (com coverage)
 
 ## Tecnologias adicionadas
 
